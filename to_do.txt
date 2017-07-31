@@ -1,0 +1,4 @@
+1. Secure ssh
+2. Install Anaconda
+3. Install Jupyter extensions
+4. Configure Jupyter
